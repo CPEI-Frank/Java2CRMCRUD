@@ -82,11 +82,11 @@ public class Main {
 	/**
 	 * Microsoft account or Microsoft Office 365 (Org ID) Password.
 	 */
-	private static final String UserPassword = "jyoRavi12";
+	private static final String UserPassword = "<pass>";
 	/**
 	 * Unique Name of the organization
 	 */
-	private static final String OrganizationUniqueName = "org436c8efe";
+	private static final String OrganizationUniqueName = "<sample>org436c8efe";
 	/**
 	 * URL for the Discovery Service For North America Microsoft account,
 	 * discovery service url is
